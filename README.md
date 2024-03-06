@@ -10,7 +10,7 @@
 
 
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## Highlight Project
 <div align="center">
   
   | [@App_BMI_Calculator](https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Project-BMICalculator) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr) |
