@@ -11,11 +11,11 @@
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Project-BMICalculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://play.google.com/store/apps/details?id=appinventor.ai_advay_gupta03.BMI_Calculator" alt="DA-RNN" />
 </a>
 
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+  <img align="center" src="https://play.google.com/store/apps/details?id=appinventor.ai_advay_gupta03.BMI_Calculator" alt="BMI" />
 </a>
 
 <!-- Footer -->
