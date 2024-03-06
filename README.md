@@ -11,11 +11,11 @@
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Project-BMICalculator">
-  <img width="100px" height="100px" align="center" src="https://play-lh.googleusercontent.com/iIM3HsmRvokAo4Y2ySyZAXLN0bNPdXKsIHcg9bSvuwJiiPSH8QLnfxS_Z40XJ7HaT04H=w600-h300-pc0xffffff-pd" alt="DA-RNN" />
+  <img width="300px" height="300px" align="center" src="https://play-lh.googleusercontent.com/iIM3HsmRvokAo4Y2ySyZAXLN0bNPdXKsIHcg9bSvuwJiiPSH8QLnfxS_Z40XJ7HaT04H=w600-h300-pc0xffffff-pd" alt="DA-RNN" />
 </a>
 
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://play-lh.googleusercontent.com/iIM3HsmRvokAo4Y2ySyZAXLN0bNPdXKsIHcg9bSvuwJiiPSH8QLnfxS_Z40XJ7HaT04H=w600-h300-pc0xffffff-pd" alt="BMI" />
+  <img width="300px" height="300px" align="center" src="https://play-lh.googleusercontent.com/iIM3HsmRvokAo4Y2ySyZAXLN0bNPdXKsIHcg9bSvuwJiiPSH8QLnfxS_Z40XJ7HaT04H=w600-h300-pc0xffffff-pd" alt="BMI" />
 </a>
 
 <!-- Footer -->
