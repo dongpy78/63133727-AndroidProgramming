@@ -1,6 +1,6 @@
 
 <h2 align="center">👋 Lập trình di động 🔥</h2>
-<h3 align="center">System.out.println("Hello Android!");</h3>
+
 
 
 
@@ -20,7 +20,6 @@
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
-
 
   
 System.out.println("Hello Android!");
