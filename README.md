@@ -31,9 +31,9 @@ System.out.println("Hello Android!");
   | --- | --- | --- | --- |
   | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@aprilspeight" width="150" height="150"> | <img   src="" alt="" width="150" height="150"> | <img src="" alt="@dayhaysoos" width="150" height="150"> | <img src="" alt="@ifiokjr" width="150" height="150"> |
   
-  | [@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/) |
+  | [@]() | [@]() | [@]() | [@]() |
   | --- | --- | --- | --- |
-  | <img src="https://avatars.githubusercontent.com/m0nica?s=150&v=1" alt="@m0nica" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/Prophen?s=150&v=1" alt="@Prophen" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/kjaymiller?s=150&v=1" alt="@kjaymiller" width="150" height="150"> | <img src="https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg" alt="tom" width="150" height="150"> |
+  | <img src="" alt="@m0nica" width="150" height="150"> | <img src="" alt="@Prophen" width="150" height="150"> | <img src="" alt="@kjaymiller" width="150" height="150"> | <img src="" alt="tom" width="150" height="150"> |
 </div>
 
 <br>
