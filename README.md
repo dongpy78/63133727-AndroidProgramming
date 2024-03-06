@@ -1,9 +1,4 @@
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
-
-
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 <pre>
@@ -42,6 +37,10 @@ System.out.println("Hello Android!");
   | --- | --- | --- | --- |
   | <img src="https://avatars.githubusercontent.com/m0nica?s=150&v=1" alt="@m0nica" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/Prophen?s=150&v=1" alt="@Prophen" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/kjaymiller?s=150&v=1" alt="@kjaymiller" width="150" height="150"> | <img src="https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg" alt="tom" width="150" height="150"> |
 </div>
+
+
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 
 
