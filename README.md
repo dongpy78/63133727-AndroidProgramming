@@ -25,19 +25,6 @@
 
 
 
-
-
-
-
-## 🗂️ Highlight Projects
-<a href="https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Project-BMICalculator">
-  <img width="300px" height="300px" align="center" src="https://play-lh.googleusercontent.com/iIM3HsmRvokAo4Y2ySyZAXLN0bNPdXKsIHcg9bSvuwJiiPSH8QLnfxS_Z40XJ7HaT04H=w600-h300-pc0xffffff-pd" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img width="300px" height="300px" align="center" src="https://play-lh.googleusercontent.com/iIM3HsmRvokAo4Y2ySyZAXLN0bNPdXKsIHcg9bSvuwJiiPSH8QLnfxS_Z40XJ7HaT04H=w600-h300-pc0xffffff-pd" alt="BMI" />
-</a>
-
 <!-- Footer -->
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
