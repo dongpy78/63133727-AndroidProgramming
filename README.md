@@ -27,9 +27,9 @@ System.out.println("Hello Android!");
 ## 🔥 Highlight Project
 <div align="center">
   
-  | [@App_BMI_Calculator](https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Project-BMICalculator) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr) |
+  | [@App_BMI_Calculator](https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Project-BMICalculator) | [@]() | [@]() | [@]() |
   | --- | --- | --- | --- |
-  | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@aprilspeight" width="150" height="150"> | <img   src="https://avatars.githubusercontent.com/Brawrdon?s=150&v=1" alt="@Brawrdon" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1" alt="@dayhaysoos" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/ifiokjr?s=150&v=1" alt="@ifiokjr" width="150" height="150"> |
+  | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@aprilspeight" width="150" height="150"> | <img   src="" alt="" width="150" height="150"> | <img src="" alt="@dayhaysoos" width="150" height="150"> | <img src="" alt="@ifiokjr" width="150" height="150"> |
   
   | [@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/) |
   | --- | --- | --- | --- |
