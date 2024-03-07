@@ -36,7 +36,7 @@
   
   | [Ex1_Hello](https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Project-BMICalculator) | [Ex2_LinearLayout]() | [Ex3_SimpleSumApp]() | [Ex4_AddSubMulDiv]() |
   | --- | --- | --- | --- |
-  | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@aprilspeight" width="150" height="150"> | <img   src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="" width="150" height="150"> | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@dayhaysoos" width="150" height="150"> | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@ifiokjr" width="150" height="150"> |
+  | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@aprilspeight" width="150" height="150"> | <img   src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="" width="200" height="200"> | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@dayhaysoos" width="150" height="150"> | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@ifiokjr" width="150" height="150"> |
   
   | [@App_BMI_Calculator]() | [@App_BMI_Calculator]() | [@App_BMI_Calculator]() | [@App_BMI_Calculator]() |
   | --- | --- | --- | --- |
