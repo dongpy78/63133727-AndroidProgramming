@@ -1,8 +1,7 @@
 
 
 <h2>
-<img alt="GIF" src="https://github.com/dongpy78/Image-github/blob/main/Artboard%201.png" width="100%"/>
-  
+  <img alt="GIF" src="https://github.com/dongpy78/Image-github/blob/main/Artboard%201.png" width="100%"/>  
 </h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
@@ -57,10 +56,6 @@
 </div>
 
 <br>
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
-
 
 
 <!-- Footer -->
