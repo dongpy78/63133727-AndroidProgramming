@@ -1,7 +1,7 @@
 
 
 <h2>
-<img align="right" alt="GIF" src="https://github.com/dongpy78/Image-github/blob/main/titleAndroid.png" width="360px"/>
+<img alt="GIF" src="https://github.com/dongpy78/Image-github/blob/main/titleAndroid.png" width="360px"/>
   
 </h2>
 
