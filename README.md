@@ -33,11 +33,11 @@
 ## 🔥 Bài Tập Thực Hành
 <div align="center">
   
-  | [Ex1_Hello](https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Project-BMICalculator) | [Ex2_LinearLayout]() | [Ex3_SimpleSumApp]() | [Ex4_AddSubMulDivOnclick]() |
+  | [Ex1_Hello](https://github.com/dongpy78/63133727-AndroidProgramming/tree/main/Project-BMICalculator) | [Ex2_LinearLayout]() | [Ex3_SimpleSumApp]() | [Ex4_AddOnclick]() |
   | --- | --- | --- | --- |
   | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@aprilspeight" width="180" height="180"> | <img   src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="" width="180" height="180"> | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@dayhaysoos" width="180" height="180"> | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@ifiokjr" width="180" height="180"> |
   
-  | [Ex5_AddSubMulDiv_Anynomous]() | [Ex5_AddSubMulDiv_Var]() | [@App_BMI_Calculator]() | [@App_BMI_Calculator]() |
+  | [Ex5_Add_Anynomous]() | [Ex5_Add_Var]() | [@App_BMI_Calculator]() | [@App_BMI_Calculator]() |
   | --- | --- | --- | --- |
   | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@m0nica" width="180" height="180"> | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@Prophen" width="180" height="180"> | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="@kjaymiller" width="180" height="180"> | <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/a2/ba/91a2ba32-65a8-1116-c0ee-3d3ea01494a4/source/512x512bb.jpg" alt="tom" width="180" height="180"> |
 </div>
