@@ -5,6 +5,32 @@
 </h2>
 
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/cszach/Raydiance">
+          <img alt="Raydiance" width="500" height="300" src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://cszach.github.io/synthwave-drive">
+          <img width="500" height="300" alt="Synthwave Drive" src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>CUDA ray tracing</td>
+      <td>3D synthwave aesthetics driving simulator</td>
+    </tr>
+    
+   
+  </tbody>
+</table>
+
+
+
+
 <br>
 
 
