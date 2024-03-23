@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\ADMIN\Desktop\Cau1_CalculatorSimple\.metadata\.plugins\org.eclipse.jdt.core
+2278600370.index
+1865797976.index
+2853348601.index
