@@ -1,4 +1,4 @@
-package com.buivandong.travel_vietnam;
+package com.buivandong.myapplication;
 
 import org.junit.Test;
 

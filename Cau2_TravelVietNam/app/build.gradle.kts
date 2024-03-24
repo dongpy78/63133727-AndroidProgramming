@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.buivandong.travel_vietnam"
+    namespace = "com.buivandong.myapplication"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.buivandong.travel_vietnam"
+        applicationId = "com.buivandong.myapplication"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

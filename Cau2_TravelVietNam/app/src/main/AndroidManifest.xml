@@ -10,20 +10,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Travel_VietNam"
+        android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
-        <activity
-            android:name=".InfoTravelDestination"
-            android:exported="false" />
-        <activity
-            android:name=".ItemTravelList"
-            android:exported="false" />
-        <activity
-            android:name=".PlacedToGoActivity"
-            android:exported="false" />
-        <activity
-            android:name=".TravelVietNamActivity"
-            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
