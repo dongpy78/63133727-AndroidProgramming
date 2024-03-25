@@ -10,6 +10,7 @@ import javax.swing.JButton;
 import java.awt.Font;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+import java.awt.Color;
 
 public class GiaoDienAppCalculator extends JFrame {
 
@@ -67,7 +68,7 @@ public class GiaoDienAppCalculator extends JFrame {
 	 */
 	public GiaoDienAppCalculator() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(100, 100, 672, 649);
+		setBounds(100, 100, 590, 613);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 
@@ -76,11 +77,13 @@ public class GiaoDienAppCalculator extends JFrame {
 		
 		textField = new JTextField();
 		textField.setFont(new Font("Tahoma", Font.BOLD, 18));
-		textField.setBounds(47, 10, 575, 81);
+		textField.setBounds(57, 10, 459, 81);
 		contentPane.add(textField);
 		textField.setColumns(10);
 		
 		JButton btnBack = new JButton("\uF0E7");
+		btnBack.setForeground(new Color(255, 255, 255));
+		btnBack.setBackground(new Color(51, 204, 153));
 		btnBack.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String backSpace = null;
@@ -93,153 +96,181 @@ public class GiaoDienAppCalculator extends JFrame {
 				}
 			}
 		});
-		btnBack.setFont(new Font("Wingdings", Font.BOLD, 19));
+		btnBack.setFont(new Font("Dialog", Font.BOLD, 30));
 		btnBack.setBounds(57, 108, 76, 61);
 		contentPane.add(btnBack);
 		
 		btn7 = new JButton("7");
+		btn7.setForeground(new Color(255, 255, 255));
+		btn7.setBackground(new Color(0, 153, 255));
 		btn7.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn7.getText();
 				textField.setText(number);
 			}
 		});
-		btn7.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn7.setBounds(55, 202, 76, 61);
+		btn7.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn7.setBounds(57, 189, 76, 61);
 		contentPane.add(btn7);
 		
 		btn4 = new JButton("4");
+		btn4.setForeground(new Color(255, 255, 255));
+		btn4.setBackground(new Color(0, 153, 255));
 		btn4.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn4.getText();
 				textField.setText(number);
 			}
 		});
-		btn4.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn4.setBounds(57, 310, 76, 61);
+		btn4.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn4.setBounds(57, 277, 76, 61);
 		contentPane.add(btn4);
 		
 		btn1 = new JButton("1");
+		btn1.setForeground(new Color(255, 255, 255));
+		btn1.setBackground(new Color(0, 153, 255));
 		btn1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn1.getText();
 				textField.setText(number);
 			}
 		});
-		btn1.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn1.setBounds(60, 413, 76, 61);
+		btn1.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn1.setBounds(57, 378, 76, 61);
 		contentPane.add(btn1);
 		
 		btn0 = new JButton("0");
+		btn0.setForeground(new Color(255, 255, 255));
+		btn0.setBackground(new Color(0, 153, 255));
 		btn0.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn0.getText();
 				textField.setText(number);
 			}
 		});
-		btn0.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn0.setBounds(59, 519, 76, 61);
+		btn0.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn0.setBounds(57, 478, 76, 61);
 		contentPane.add(btn0);
 		
 		btnClear = new JButton("C");
+		btnClear.setForeground(new Color(255, 255, 255));
+		btnClear.setBackground(new Color(255, 0, 102));
 		btnClear.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				textField.setText(null);
 			}
 		});
-		btnClear.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btnClear.setBounds(197, 108, 76, 61);
+		btnClear.setFont(new Font("Dialog", Font.BOLD, 24));
+		btnClear.setBounds(182, 107, 76, 61);
 		contentPane.add(btnClear);
 		
 		btn8 = new JButton("8");
+		btn8.setForeground(new Color(255, 255, 255));
+		btn8.setBackground(new Color(0, 153, 255));
 		btn8.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn8.getText();
 				textField.setText(number);
 			}
 		});
-		btn8.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn8.setBounds(195, 202, 76, 61);
+		btn8.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn8.setBounds(182, 189, 76, 61);
 		contentPane.add(btn8);
 		
 		btn5 = new JButton("5");
+		btn5.setForeground(new Color(255, 255, 255));
+		btn5.setBackground(new Color(0, 153, 255));
 		btn5.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn5.getText();
 				textField.setText(number);
 			}
 		});
-		btn5.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn5.setBounds(197, 310, 76, 61);
+		btn5.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn5.setBounds(182, 277, 76, 61);
 		contentPane.add(btn5);
 		
 		btn2 = new JButton("2");
+		btn2.setForeground(new Color(255, 255, 255));
+		btn2.setBackground(new Color(0, 153, 255));
 		btn2.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn2.getText();
 				textField.setText(number);
 			}
 		});
-		btn2.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn2.setBounds(200, 413, 76, 61);
+		btn2.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn2.setBounds(182, 378, 76, 61);
 		contentPane.add(btn2);
 		
 		btndot = new JButton(".");
+		btndot.setForeground(new Color(255, 255, 255));
+		btndot.setBackground(new Color(0, 153, 255));
 		btndot.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btndot.getText();
 				textField.setText(number);
 			}
 		});
-		btndot.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btndot.setBounds(199, 519, 76, 61);
+		btndot.setFont(new Font("Dialog", Font.BOLD, 24));
+		btndot.setBounds(182, 478, 76, 61);
 		contentPane.add(btndot);
 		
 		btn00 = new JButton("00");
+		btn00.setForeground(new Color(255, 255, 255));
+		btn00.setBackground(new Color(0, 153, 255));
 		btn00.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn00.getText();
 				textField.setText(number);
 			}
 		});
-		btn00.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn00.setBounds(363, 108, 76, 61);
+		btn00.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn00.setBounds(310, 107, 76, 61);
 		contentPane.add(btn00);
 		
 		btn9 = new JButton("9");
+		btn9.setForeground(new Color(255, 255, 255));
+		btn9.setBackground(new Color(0, 153, 255));
 		btn9.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn9.getText();
 				textField.setText(number);
 			}
 		});
-		btn9.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn9.setBounds(361, 202, 76, 61);
+		btn9.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn9.setBounds(310, 189, 76, 61);
 		contentPane.add(btn9);
 		
 		btn6 = new JButton("6");
+		btn6.setForeground(new Color(255, 255, 255));
+		btn6.setBackground(new Color(0, 153, 255));
 		btn6.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn6.getText();
 				textField.setText(number);
 			}
 		});
-		btn6.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn6.setBounds(363, 310, 76, 61);
+		btn6.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn6.setBounds(310, 277, 76, 61);
 		contentPane.add(btn6);
 		
 		btn3 = new JButton("3");
+		btn3.setForeground(new Color(255, 255, 255));
+		btn3.setBackground(new Color(0, 153, 255));
 		btn3.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String number = textField.getText() + btn3.getText();
 				textField.setText(number);
 			}
 		});
-		btn3.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btn3.setBounds(366, 413, 76, 61);
+		btn3.setFont(new Font("Dialog", Font.BOLD, 24));
+		btn3.setBounds(310, 378, 76, 61);
 		contentPane.add(btn3);
 		
 		btnEqual = new JButton("=");
+		btnEqual.setForeground(new Color(255, 255, 255));
+		btnEqual.setBackground(new Color(0, 153, 255));
 		btnEqual.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				String answer;
@@ -270,11 +301,13 @@ public class GiaoDienAppCalculator extends JFrame {
 				
 			}
 		});
-		btnEqual.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btnEqual.setBounds(365, 519, 76, 61);
+		btnEqual.setFont(new Font("Dialog", Font.BOLD, 24));
+		btnEqual.setBounds(310, 478, 76, 61);
 		contentPane.add(btnEqual);
 		
 		btnPercent = new JButton("%");
+		btnPercent.setForeground(new Color(255, 255, 51));
+		btnPercent.setBackground(new Color(51, 204, 153));
 		btnPercent.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				first = Double.parseDouble(textField.getText());
@@ -282,11 +315,13 @@ public class GiaoDienAppCalculator extends JFrame {
 				operation = "%";
 			}
 		});
-		btnPercent.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btnPercent.setBounds(528, 519, 76, 61);
+		btnPercent.setFont(new Font("Dialog", Font.BOLD, 30));
+		btnPercent.setBounds(440, 478, 76, 61);
 		contentPane.add(btnPercent);
 		
 		btnChia = new JButton("/");
+		btnChia.setForeground(new Color(255, 255, 51));
+		btnChia.setBackground(new Color(51, 204, 153));
 		btnChia.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				first = Double.parseDouble(textField.getText());
@@ -294,11 +329,13 @@ public class GiaoDienAppCalculator extends JFrame {
 				operation = "/";
 			}
 		});
-		btnChia.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btnChia.setBounds(529, 413, 76, 61);
+		btnChia.setFont(new Font("Dialog", Font.BOLD, 30));
+		btnChia.setBounds(440, 378, 76, 61);
 		contentPane.add(btnChia);
 		
 		btnNhan = new JButton("*");
+		btnNhan.setForeground(new Color(255, 255, 51));
+		btnNhan.setBackground(new Color(51, 204, 153));
 		btnNhan.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				first = Double.parseDouble(textField.getText());
@@ -306,11 +343,13 @@ public class GiaoDienAppCalculator extends JFrame {
 				operation = "*";
 			}
 		});
-		btnNhan.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btnNhan.setBounds(526, 310, 76, 61);
+		btnNhan.setFont(new Font("Dialog", Font.BOLD, 30));
+		btnNhan.setBounds(440, 277, 76, 61);
 		contentPane.add(btnNhan);
 		
 		btnTru = new JButton("-");
+		btnTru.setForeground(new Color(255, 255, 51));
+		btnTru.setBackground(new Color(51, 204, 153));
 		btnTru.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				first = Double.parseDouble(textField.getText());
@@ -318,11 +357,13 @@ public class GiaoDienAppCalculator extends JFrame {
 				operation = "-";
 			}
 		});
-		btnTru.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btnTru.setBounds(524, 202, 76, 61);
+		btnTru.setFont(new Font("Dialog", Font.BOLD, 30));
+		btnTru.setBounds(440, 189, 76, 61);
 		contentPane.add(btnTru);
 		
 		btnCong = new JButton("+");
+		btnCong.setForeground(new Color(255, 255, 51));
+		btnCong.setBackground(new Color(51, 204, 153));
 		btnCong.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				first = Double.parseDouble(textField.getText());
@@ -330,8 +371,8 @@ public class GiaoDienAppCalculator extends JFrame {
 				operation = "+";
 			}
 		});
-		btnCong.setFont(new Font("Tahoma", Font.BOLD, 19));
-		btnCong.setBounds(526, 108, 76, 61);
+		btnCong.setFont(new Font("Dialog", Font.BOLD, 30));
+		btnCong.setBounds(440, 107, 76, 61);
 		contentPane.add(btnCong);
 	}
 }
