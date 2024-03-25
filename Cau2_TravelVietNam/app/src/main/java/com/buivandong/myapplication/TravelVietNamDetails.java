@@ -50,7 +50,7 @@ public class TravelVietNamDetails extends AppCompatActivity {
         img_back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(TravelVietNamDetails.this, TravelVietNam.class);
+                Intent intent = new Intent(TravelVietNamDetails.this, MainActivity.class);
                 startActivity(intent);
             }
         });
