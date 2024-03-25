@@ -18,7 +18,7 @@
       </td>
       <td>
         <a target="_blank" href="[https://cszach.github.io/synthwave-drive](https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md)">
-          <img width="400" height="500" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20201411.png" />
+          <img width="350" height="500" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20201411.png" />
         </a>
       </td>
     </tr>
