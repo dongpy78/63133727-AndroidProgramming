@@ -13,7 +13,7 @@
     <tr>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
-          <img alt="Raydiance" width="400" height="500" src="https://github.com/dongpy78/Image-github/blob/main/Cau_1/Screenshot%202024-03-24%20145118.png" />
+          <img alt="Raydiance" width="350" height="500" src="https://github.com/dongpy78/Image-github/blob/main/Cau_1/Screenshot%202024-03-24%20145118.png" />
         </a>
       </td>
       <td>
@@ -32,7 +32,7 @@
     <tr>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau_1.md">
-          <img alt="Raydiance" width="400" height="500" src="https://github.com/dongpy78/Image-github/blob/main/Cau_1/Screenshot%202024-03-24%20145118.png" />
+          <img alt="Raydiance" width="350" height="500" src="https://github.com/dongpy78/Image-github/blob/main/Cau_1/Screenshot%202024-03-24%20145118.png" />
         </a>
       </td>     
     </tr>
