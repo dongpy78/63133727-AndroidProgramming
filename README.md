@@ -37,7 +37,7 @@
       </td>     
     </tr>
     <tr>
-      <td>Cau1_CalculatorSimpleApp</td>      
+      <td>Cau3_ThongTinCaNhan</td>      
     </tr>      
   </tbody>
 </table>
