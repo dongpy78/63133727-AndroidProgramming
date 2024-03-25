@@ -2,6 +2,7 @@ package com.buivandong.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -35,6 +36,26 @@ public class TravelVietNam extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 TravelListData travelListData = dsTravel.get(i);
                 Toast.makeText(TravelVietNam.this, travelListData.getHeading(), Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        lvTravelVN.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                TravelListData travelListData = dsTravel.get(i);
+                Intent intent = new Intent(TravelVietNam.this, TravelVietNamDetails.class);
+                String heading = travelListData.getHeading();
+                String description = travelListData.getDescription();
+                String img = String.valueOf(travelListData.getImage());
+                String rating = String.valueOf(travelListData.getRating());
+
+                intent.putExtra("heading_id", heading);
+                intent.putExtra("desc_id", description);
+                intent.putExtra("img_id", img);
+                intent.putExtra("rating_id", rating);
+
+                startActivity(intent);
+
             }
         });
 
