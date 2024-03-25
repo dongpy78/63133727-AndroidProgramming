@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         style="@style/Widget.AppCompat.RatingBar.Small"
         android:layout_alignBottom="@id/card_view_image_container"
-        tools:rating="4.5f"
+        tools:rating="5.0f"
 
         />
 

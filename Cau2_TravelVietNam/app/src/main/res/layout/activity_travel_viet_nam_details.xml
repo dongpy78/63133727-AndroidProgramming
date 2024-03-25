@@ -62,7 +62,7 @@
                 android:layout_height="wrap_content"
                 style="@style/Widget.AppCompat.RatingBar.Indicator"
                 android:layout_alignBottom="@id/card_view_image_container"
-                tools:rating="4.5f"
+                tools:rating="5.0f"
                 />
 
             <TextView
@@ -72,11 +72,11 @@
                 android:text="Title Heading"
                 android:textSize="24dp"
                 android:gravity="center"
-                android:padding="18dp"
+                android:padding="8dp"
                 android:textStyle="bold"/>
 
             <TextView
-                android:padding="16dp"
+                android:padding="8dp"
                 android:id="@+id/text_view_description_2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
