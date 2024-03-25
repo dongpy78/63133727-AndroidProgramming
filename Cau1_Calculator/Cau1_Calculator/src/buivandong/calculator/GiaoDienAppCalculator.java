@@ -240,6 +240,36 @@ public class GiaoDienAppCalculator extends JFrame {
 		contentPane.add(btn3);
 		
 		btnEqual = new JButton("=");
+		btnEqual.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String answer;
+				second = Double.parseDouble(textField.getText());
+				if(operation == "+") {
+					result = first + second;
+					answer = String.format("%.2f", result);
+					textField.setText(answer);
+				} else if(operation == "-") {
+					result = first - second;
+					answer = String.format("%.2f", result);
+					textField.setText(answer);
+				} else if(operation == "*") {
+					result = first * second;
+					answer = String.format("%.2f", result);
+					textField.setText(answer);
+				} else if(operation == "/") {
+					result = first / second;
+					answer = String.format("%.2f", result);
+					textField.setText(answer);
+				} else if(operation == "%") {
+					result = first % second;
+					answer = String.format("%.2f", result);
+					textField.setText(answer);
+				}
+				
+				
+				
+			}
+		});
 		btnEqual.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btnEqual.setBounds(365, 519, 76, 61);
 		contentPane.add(btnEqual);
