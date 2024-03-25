@@ -39,6 +39,16 @@ public class GiaoDienAppCalculator extends JFrame {
 	/**
 	 * Launch the application.
 	 */
+	
+	
+	double first;
+	double second;
+	double result;
+	String operation;
+	String answer;
+	
+	
+	
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -235,26 +245,61 @@ public class GiaoDienAppCalculator extends JFrame {
 		contentPane.add(btnEqual);
 		
 		btnPercent = new JButton("%");
+		btnPercent.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				first = Double.parseDouble(textField.getText());
+				textField.setText("");
+				operation = "%";
+			}
+		});
 		btnPercent.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btnPercent.setBounds(528, 519, 76, 61);
 		contentPane.add(btnPercent);
 		
 		btnChia = new JButton("/");
+		btnChia.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				first = Double.parseDouble(textField.getText());
+				textField.setText("");
+				operation = "/";
+			}
+		});
 		btnChia.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btnChia.setBounds(529, 413, 76, 61);
 		contentPane.add(btnChia);
 		
 		btnNhan = new JButton("*");
+		btnNhan.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				first = Double.parseDouble(textField.getText());
+				textField.setText("");
+				operation = "*";
+			}
+		});
 		btnNhan.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btnNhan.setBounds(526, 310, 76, 61);
 		contentPane.add(btnNhan);
 		
 		btnTru = new JButton("-");
+		btnTru.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				first = Double.parseDouble(textField.getText());
+				textField.setText("");
+				operation = "-";
+			}
+		});
 		btnTru.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btnTru.setBounds(524, 202, 76, 61);
 		contentPane.add(btnTru);
 		
 		btnCong = new JButton("+");
+		btnCong.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				first = Double.parseDouble(textField.getText());
+				textField.setText("");
+				operation = "+";
+			}
+		});
 		btnCong.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btnCong.setBounds(526, 108, 76, 61);
 		contentPane.add(btnCong);
