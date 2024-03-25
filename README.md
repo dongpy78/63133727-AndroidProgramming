@@ -23,7 +23,7 @@
       </td>
     </tr>
     <tr>
-      <td>Cau1_CalculatorSimpleApp</td>
+      <td>Cau1_AppCalculator</td>
       <td>Cau2_AppTravelVietNam</td>
     </tr>
 
