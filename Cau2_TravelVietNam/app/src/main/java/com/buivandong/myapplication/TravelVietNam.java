@@ -23,10 +23,10 @@ public class TravelVietNam extends AppCompatActivity {
         ArrayList<TravelListData> dsTravel = new ArrayList<TravelListData>();
         dsTravel.add(new TravelListData("Phú Yên", "Phú Yên Quê tôi!", R.drawable.canh_dep_ha_long_viet_nam_055419665, 4.5f));
         dsTravel.add(new TravelListData("Phú Yên", "Phú Yên Quê tôi!", R.drawable.canh_dep_ha_long_viet_nam_055419665, 4.5f));
+        dsTravel.add(new TravelListData("Phú Yên", "Phú Yên Quê tôi!", R.drawable.canh_dep_ha_noi_viet_nam_055419712, 4.5f));
+        dsTravel.add(new TravelListData("Phú Yên", "Phú Yên Quê tôi!", R.drawable._jf0b7075nbc1695660163415, 4.5f));
         dsTravel.add(new TravelListData("Phú Yên", "Phú Yên Quê tôi!", R.drawable.canh_dep_ha_long_viet_nam_055419665, 4.5f));
-        dsTravel.add(new TravelListData("Phú Yên", "Phú Yên Quê tôi!", R.drawable.canh_dep_ha_long_viet_nam_055419665, 4.5f));
-        dsTravel.add(new TravelListData("Phú Yên", "Phú Yên Quê tôi!", R.drawable.canh_dep_ha_long_viet_nam_055419665, 4.5f));
-        dsTravel.add(new TravelListData("Phú Yên", "Phú Yên Quê tôi!", R.drawable.canh_dep_ha_long_viet_nam_055419665, 4.5f));
+        dsTravel.add(new TravelListData("Phú Yên", "Phú Yên Quê tôi!", R.drawable.canh_dep_ninh_binh_viet_nam_055419852, 4.5f));
 
         TravelAdapter adapter = new TravelAdapter(this, dsTravel);
         lvTravelVN.setAdapter(adapter);
