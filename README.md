@@ -13,7 +13,7 @@
     <tr>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau_1.md">
-          <img alt="Raydiance" width="500" height="300" src="https://github.com/dongpy78/Image-github/blob/main/Cau_1/Screenshot%202024-03-24%20145118.png" />
+          <img alt="Raydiance" width="300" height="500" src="https://github.com/dongpy78/Image-github/blob/main/Cau_1/Screenshot%202024-03-24%20145118.png" />
         </a>
       </td>
       <td>
