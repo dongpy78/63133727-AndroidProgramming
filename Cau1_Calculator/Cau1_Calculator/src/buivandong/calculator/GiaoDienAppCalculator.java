@@ -120,6 +120,11 @@ public class GiaoDienAppCalculator extends JFrame {
 		contentPane.add(btn0);
 		
 		btnClear = new JButton("C");
+		btnClear.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				textField.setText(null);
+			}
+		});
 		btnClear.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btnClear.setBounds(197, 108, 76, 61);
 		contentPane.add(btnClear);
