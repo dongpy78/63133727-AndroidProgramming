@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
     private TextView textEmail ;
     private TextView textEducation ;
     private TextView textAddress ;
+
+    private TextView textHobby;
     private Button show_info;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         textEducation = findViewById(R.id.text_education);
         textAddress = findViewById(R.id.text_address);
         show_info = findViewById(R.id.btn_show_info);
+        textHobby = findViewById(R.id.text_sothich);
     }
 
     private void HienThiThongTin() {
@@ -40,17 +43,18 @@ public class MainActivity extends AppCompatActivity {
                 String email = textEmail.getText().toString();
                 String education = textEducation.getText().toString();
                 String address = textAddress.getText().toString();
+                String hobby = textHobby.getText().toString();
 
-                showInfoDialog(name, email, education, address);
+                showInfoDialog(name, email, education, address, hobby);
 
             }
         });
     }
 
-    private void showInfoDialog(String name, String email, String education, String address) {
+    private void showInfoDialog(String name, String email, String education, String address, String hobby) {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("Thông tin! ");
-        builder.setMessage("Name: " + name + "\nEmail: " + email + "\nEducation: " + education + "\nAddress: " + address);
+        builder.setMessage("Name: " + name + "\nEmail: " + email + "\nEducation: " + education + "\nAddress: " + address + "\nHobby: " + hobby);
         builder.setPositiveButton("OK", null);
 
         AlertDialog dialog = builder.create();
