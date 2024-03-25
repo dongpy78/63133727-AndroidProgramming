@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:orientation="vertical"
         android:layout_height="match_parent"
-        android:paddingBottom="40dp"
+        android:paddingBottom="30dp"
         tools:context=".MainActivity">
 
         <FrameLayout
@@ -38,7 +38,7 @@
 
 
         <LinearLayout
-            android:padding="14dp"
+            android:padding="20dp"
             android:orientation="vertical"
             android:layout_width="match_parent"
 
