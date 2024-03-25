@@ -31,7 +31,7 @@
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintVertical_bias="0.0"
-                    app:srcCompat="@drawable/_jf0b7075nbc1695660163415" />
+                    app:srcCompat="@drawable/canh_dep_ninh_binh_viet_nam_055419852" />
 
                 <ImageView
                     android:id="@+id/image_icon2"
