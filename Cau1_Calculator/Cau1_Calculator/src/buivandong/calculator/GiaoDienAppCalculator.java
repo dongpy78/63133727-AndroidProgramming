@@ -76,11 +76,23 @@ public class GiaoDienAppCalculator extends JFrame {
 		contentPane.add(btnBack);
 		
 		btn7 = new JButton("7");
+		btn7.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btn7.getText();
+				textField.setText(number);
+			}
+		});
 		btn7.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btn7.setBounds(55, 202, 76, 61);
 		contentPane.add(btn7);
 		
 		btn4 = new JButton("4");
+		btn4.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btn4.getText();
+				textField.setText(number);
+			}
+		});
 		btn4.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btn4.setBounds(57, 310, 76, 61);
 		contentPane.add(btn4);
@@ -97,6 +109,12 @@ public class GiaoDienAppCalculator extends JFrame {
 		contentPane.add(btn1);
 		
 		btn0 = new JButton("0");
+		btn0.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btn0.getText();
+				textField.setText(number);
+			}
+		});
 		btn0.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btn0.setBounds(59, 519, 76, 61);
 		contentPane.add(btn0);
@@ -107,41 +125,89 @@ public class GiaoDienAppCalculator extends JFrame {
 		contentPane.add(btnClear);
 		
 		btn8 = new JButton("8");
+		btn8.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btn8.getText();
+				textField.setText(number);
+			}
+		});
 		btn8.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btn8.setBounds(195, 202, 76, 61);
 		contentPane.add(btn8);
 		
 		btn5 = new JButton("5");
+		btn5.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btn5.getText();
+				textField.setText(number);
+			}
+		});
 		btn5.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btn5.setBounds(197, 310, 76, 61);
 		contentPane.add(btn5);
 		
 		btn2 = new JButton("2");
+		btn2.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btn2.getText();
+				textField.setText(number);
+			}
+		});
 		btn2.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btn2.setBounds(200, 413, 76, 61);
 		contentPane.add(btn2);
 		
 		btndot = new JButton(".");
+		btndot.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btndot.getText();
+				textField.setText(number);
+			}
+		});
 		btndot.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btndot.setBounds(199, 519, 76, 61);
 		contentPane.add(btndot);
 		
 		btn00 = new JButton("00");
+		btn00.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btn00.getText();
+				textField.setText(number);
+			}
+		});
 		btn00.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btn00.setBounds(363, 108, 76, 61);
 		contentPane.add(btn00);
 		
 		btn9 = new JButton("9");
+		btn9.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btn9.getText();
+				textField.setText(number);
+			}
+		});
 		btn9.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btn9.setBounds(361, 202, 76, 61);
 		contentPane.add(btn9);
 		
 		btn6 = new JButton("6");
+		btn6.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btn6.getText();
+				textField.setText(number);
+			}
+		});
 		btn6.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btn6.setBounds(363, 310, 76, 61);
 		contentPane.add(btn6);
 		
 		btn3 = new JButton("3");
+		btn3.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String number = textField.getText() + btn3.getText();
+				textField.setText(number);
+			}
+		});
 		btn3.setFont(new Font("Tahoma", Font.BOLD, 19));
 		btn3.setBounds(366, 413, 76, 61);
 		contentPane.add(btn3);
