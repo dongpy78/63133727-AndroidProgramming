@@ -70,8 +70,20 @@ public class GiaoDienAppCalculator extends JFrame {
 		contentPane.add(textField);
 		textField.setColumns(10);
 		
-		JButton btnBack = new JButton("B");
-		btnBack.setFont(new Font("Tahoma", Font.BOLD, 19));
+		JButton btnBack = new JButton("\uF0E7");
+		btnBack.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				String backSpace = null;
+				if(textField.getText().length() > 0) {
+					StringBuilder str = new StringBuilder(textField.getText());
+					str.deleteCharAt(textField.getText().length()-1);
+					backSpace = str.toString();
+					textField.setText(backSpace);
+					
+				}
+			}
+		});
+		btnBack.setFont(new Font("Wingdings", Font.BOLD, 19));
 		btnBack.setBounds(57, 108, 76, 61);
 		contentPane.add(btnBack);
 		
