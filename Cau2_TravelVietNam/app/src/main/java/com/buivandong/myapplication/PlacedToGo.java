@@ -2,9 +2,11 @@ package com.buivandong.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.Toast;
 
@@ -17,6 +19,17 @@ public class PlacedToGo extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_placed_to_go);
+
+
+        ImageView back = findViewById(R.id.image_list_back);
+        back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(PlacedToGo.this, MainActivity.class);
+                startActivity(intent);
+
+            }
+        });
 
         // Tìm listView
         ListView listViewPlaced = (ListView) findViewById(R.id.list_view_placed);
@@ -40,6 +53,25 @@ public class PlacedToGo extends AppCompatActivity {
             }
         });
 
+        listViewPlaced.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                TravelListData travelListData = dsPlaced.get(i);
+                Intent intent = new Intent(PlacedToGo.this, TravelVietNamDetails.class);
+                String heading = travelListData.getHeading();
+                String description = travelListData.getDescription();
+                String img = String.valueOf(travelListData.getImage());
+                String rating = String.valueOf(travelListData.getRating());
+
+                intent.putExtra("heading_id", heading);
+                intent.putExtra("desc_id", description);
+                intent.putExtra("img_id", img);
+                intent.putExtra("rating_id", rating);
+
+                startActivity(intent);
+
+            }
+        });
 
 
 
