@@ -12,22 +12,33 @@
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau_1.md">
-          <img alt="Raydiance" width="500" height="300" src="https://github.com/dongpy78/Image-github/blob/main/Cau_1/Screenshot%202024-03-24%20145118.png" />
+        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
+          <img alt="Raydiance" width="350" height="500" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20200129.png" />
         </a>
       </td>
       <td>
-        <a target="_blank" href="https://cszach.github.io/synthwave-drive">
-          <img width="500" height="300" alt="Synthwave Drive" src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
+          <img width="350" height="500" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20201411.png" />
         </a>
       </td>
     </tr>
     <tr>
-      <td>Cau1_CalculatorSimpleApp</td>
+      <td>Cau1_AppCalculator</td>
       <td>Cau2_AppTravelVietNam</td>
     </tr>
-    
-   
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau3_ThongTinCaNhan.md">
+          <img alt="Raydiance" width="350" height="500" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20231123.png" />
+        </a>
+      </td>     
+    </tr>
+    <tr>
+      <td>Cau3_ThongTinCaNhan</td>      
+    </tr>      
   </tbody>
 </table>
 
