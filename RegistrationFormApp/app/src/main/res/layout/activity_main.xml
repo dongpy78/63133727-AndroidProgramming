@@ -78,6 +78,7 @@
                 android:layout_width="match_parent"
                 android:id="@+id/edit_text_phone"
                 android:hint="Phone No."
+                android:inputType="number"
                 android:layout_height="wrap_content"/>
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -91,6 +92,7 @@
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
                 android:id="@+id/edit_text_password"
+                
                 android:hint="Password"
                 android:layout_height="wrap_content"/>
         </com.google.android.material.textfield.TextInputLayout>
