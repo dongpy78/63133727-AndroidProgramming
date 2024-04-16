@@ -41,12 +41,12 @@ public class MainActivity extends AppCompatActivity {
 
     ArrayList<LandScape> getDataForRecycleView() {
         ArrayList<LandScape> dsDuLieu = new ArrayList<LandScape>();
-        LandScape landScape1 = new LandScape("anh1", "Phú Yên Quê Tôi!");
+        LandScape landScape1 = new LandScape("phuyen", "Phú Yên Quê Tôi!");
         dsDuLieu.add(landScape1);
-        dsDuLieu.add(new LandScape("anh2", "Nha Trang Nơi Tôi Học!"));
-        dsDuLieu.add(new LandScape("anh3", "Nha Trang Nơi Tôi Học!"));
-        dsDuLieu.add(new LandScape("anh4", "Nha Trang Nơi Tôi Học!"));
-        dsDuLieu.add(new LandScape("anh5", "Nha Trang Nơi Tôi Học!"));
+        dsDuLieu.add(new LandScape("nhatrang", "Nha Trang Nơi Tôi Học!"));
+        dsDuLieu.add(new LandScape("nhatrang", "Nha Trang Nơi Tôi Học!"));
+        dsDuLieu.add(new LandScape("phuyen", "Nha Trang Nơi Tôi Học!"));
+        dsDuLieu.add(new LandScape("phuyen", "Nha Trang Nơi Tôi Học!"));
         return dsDuLieu;
     }
 
