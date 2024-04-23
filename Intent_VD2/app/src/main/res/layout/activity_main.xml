@@ -4,29 +4,37 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:orientation="vertical"
-    android:padding="40dp"
+    android:background="#14b8a6"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center"
-
-        android:textSize="30dp"
-        android:text="Màn hình trang chủ" />
+        android:textColor="#fff"
+        android:textSize="34dp"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="sans-serif-medium"
+        android:text="Màn Hình Chính" />
 
     <ImageView
-        android:src="anhdachinh"
         android:layout_width="match_parent"
+        android:src="@drawable/ntu2_removebg_preview"
+        android:outlineAmbientShadowColor="@color/black"
+        android:layout_marginTop="40dp"
         android:layout_height="wrap_content"/>
 
     <Button
+        android:id="@+id/btn_login"
         android:layout_width="300dp"
-        android:layout_marginTop="30dp"
-        android:gravity="center"
+        android:text="Đăng nhập hệ thống"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="60dp"
+        android:padding="8dp"
         android:textSize="24dp"
-        android:text="Sang màn hình khác"
-        android:layout_height="wrap_content"/>
 
+        android:textColor="#fff"
+        android:background="#3b82f6"
+        android:layout_height="wrap_content"/>
 </LinearLayout>

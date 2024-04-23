@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Intent_VD1"
+rootProject.name = "Intent Vi Du 2"
 include(":app")

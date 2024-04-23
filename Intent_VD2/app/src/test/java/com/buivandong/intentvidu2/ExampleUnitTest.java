@@ -1,4 +1,4 @@
-package com.buivandong.intent_vd1;
+package com.buivandong.intentvidu2;
 
 import org.junit.Test;
 

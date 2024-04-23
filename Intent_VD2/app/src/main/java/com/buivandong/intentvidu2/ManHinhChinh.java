@@ -1,14 +1,14 @@
-package com.buivandong.intent_vd1;
+package com.buivandong.intentvidu2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class ManHinhChinh extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_man_hinh_chinh);
     }
 }

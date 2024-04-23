@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.buivandong.intent_vd1"
+    namespace = "com.buivandong.intentvidu2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.buivandong.intent_vd1"
+        applicationId = "com.buivandong.intentvidu2"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
