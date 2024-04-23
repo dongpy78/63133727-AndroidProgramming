@@ -44,6 +44,7 @@ public class ManHinhDangNhap extends AppCompatActivity {
                 if(username.equals("vandong") && password.equals("cntt2")) {
                     showToast("Đăng nhập thành công");
                     Intent intent = new Intent(ManHinhDangNhap.this, ManHinhChinh.class);
+                    intent.putExtra("welcome", username);
                     startActivity(intent);
                 } else {
                     showToast("đăng nhập thất bại! Vui lòng kiểm tra lại username và password.");
