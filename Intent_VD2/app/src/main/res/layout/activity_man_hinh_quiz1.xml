@@ -1,9 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".ManHinhQuiz1">
+    android:paddingTop="20dp"
+    android:layout_height="match_parent">
+    <LinearLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        tools:context=".ManHinhQuiz1">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/text_question_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Câu hỏi 1: Which is the most popular JavaScript framework?"
+                android:textColor="#000"
+                android:textSize="18sp" />
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/radio_option1_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Angular"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/radio_option1_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="React"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/radio_option1_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Svelte"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/radio_option1_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Vue"
+                    android:textSize="16sp" />
+
+            </RadioGroup>
+
+
+
+            <Button
+                android:id="@+id/btn_submit_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Submit" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="30dp"
+            android:paddingTop="24dp"
+            android:paddingRight="30dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/text_question_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Câu hỏi 2: What's the fundamental building block of React apps?"
+                android:textColor="#000"
+                android:textSize="18sp" />
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RadioButton
+                    android:id="@+id/radio_option2_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Components"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/radio_option2_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Blocks"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/radio_option2_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Elements"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/radio_option2_4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Effects"
+                    android:textSize="16sp" />
+
+            </RadioGroup>
+
+
+            <Button
+                android:id="@+id/btn_submit_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Submit" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
+
+
