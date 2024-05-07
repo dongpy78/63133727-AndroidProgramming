@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
                 replaceFragment(new HomeFragment());
             } else if(item.getItemId() == R.id.profile) {
                 replaceFragment(new ProfileFragment());
+            } else if(item.getItemId() == R.id.recycle) {
+                replaceFragment(new RecycleViewFragment());
             } else {
                 replaceFragment(new SettingFragment());
             }

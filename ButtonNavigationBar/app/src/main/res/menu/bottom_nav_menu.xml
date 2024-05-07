@@ -13,6 +13,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:title="Profile" />
+
+    <item
+        android:id="@+id/recycle"
+        android:icon="@drawable/baseline_checklist_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="RecyleView" />
+
     <item
         android:id="@+id/settings"
         android:icon="@drawable/baseline_app_settings_alt_24"
