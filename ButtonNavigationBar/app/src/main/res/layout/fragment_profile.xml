@@ -553,12 +553,9 @@
                     android:padding="10dp"
                     android:letterSpacing="0.05"
                     android:textSize="20dp"
-
-
                     android:textColor="#A1A2A4"
                     android:layout_width="match_parent"
                     android:background="@drawable/rounded_corner_3"
-
                     android:text="Name"
                     android:layout_height="48dp"/>
             </LinearLayout>
@@ -572,7 +569,6 @@
                     android:padding="10dp"
                     android:letterSpacing="0.05"
                     android:textSize="20dp"
-
 
                     android:textColor="#A1A2A4"
                     android:layout_width="match_parent"
@@ -600,7 +596,6 @@
                     android:layout_height="266dp"/>
             </LinearLayout>
 
-
             <Button
                 android:layout_gravity="center"
                 android:layout_width="333dp"
@@ -610,12 +605,7 @@
                 android:background="#B0AEC0"
                 android:gravity="center"
                 android:layout_height="76dp"/>
-
         </LinearLayout>
-
-
-
-
     </LinearLayout>
 
 
