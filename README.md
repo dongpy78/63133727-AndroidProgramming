@@ -5,7 +5,7 @@
 </h2>
 
 <div align="center">
-  <h3>Bài Tập ButtonNavigationBar và Navigation Drawer </h3>
+  <h3>Bài Tập Button Navigation Bar và Navigation Drawer </h3>
 </div>
 
 <table>
@@ -23,8 +23,8 @@
       </td>
     </tr>
     <tr>
-      <td>Cau1_AppCalculator</td>
-      <td>Cau2_AppTravelVietNam</td>
+      <td>Button Navigation Bar</td>
+      <td>Navigation Drawer</td>
     </tr>
   </tbody>
 </table>
