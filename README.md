@@ -43,6 +43,45 @@
 </table>
 <br>
 
+<div align="center">
+  <h3>😘 Bài Kiểm Tra Giữa Kỳ Android  </h3>
+</div>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
+          <img alt="Raydiance" width="414" height="736" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20200129.png" />
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
+          <img width="414" height="736" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20201411.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Cau1_AppCalculator</td>
+      <td>Cau2_AppTravelVietNam</td>
+    </tr>
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau3_ThongTinCaNhan.md">
+          <img alt="Raydiance" width="414" height="736" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20231123.png" />
+        </a>
+      </td>     
+    </tr>
+    <tr>
+      <td>Cau3_ThongTinCaNhan</td>      
+    </tr>      
+  </tbody>
+</table>
+<br>
+
 
 <!-- Footer -->
 <div align="center">
