@@ -27,19 +27,6 @@
       <td>Cau2_AppTravelVietNam</td>
     </tr>
   </tbody>
-
-  <tbody>
-    <tr>
-      <td>
-        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau3_ThongTinCaNhan.md">
-          <img alt="Raydiance" width="414" height="736" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20231123.png" />
-        </a>
-      </td>     
-    </tr>
-    <tr>
-      <td>Cau3_ThongTinCaNhan</td>      
-    </tr>      
-  </tbody>
 </table>
 <br>
 
