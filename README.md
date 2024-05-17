@@ -5,7 +5,7 @@
 </h2>
 
 <div align="center">
-  <h3>😘 Bài Kiểm Tra Giữa Kỳ Android  </h3>
+  <h3>Bài Tập ButtonNavigationBar và Navigation Drawer </h3>
 </div>
 
 <table>
