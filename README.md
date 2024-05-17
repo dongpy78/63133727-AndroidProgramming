@@ -28,7 +28,6 @@
     </tr>
   </tbody>
 </table>
-<br>
 
 <div align="center">
   <h3>😘 Bài Kiểm Tra Giữa Kỳ Android  </h3>
