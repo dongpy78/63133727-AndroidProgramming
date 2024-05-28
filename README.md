@@ -4,6 +4,54 @@
   <img alt="GIF" src="https://github.com/dongpy78/Image-github/blob/main/Artboard%201.png" width="100%"/>  
 </h2>
 
+
+<div align="center">
+  <h3>Bài Tập Lớn Quiz App Demo </h3>
+</div>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
+          <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/navigation/buttonnavigation.png" />
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
+          <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/navigation/Screenshot_20240517-210613.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Button Navigation Bar</td>
+      <td>Navigation Drawer</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
+          <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/navigation/buttonnavigation.png" />
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
+          <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/navigation/Screenshot_20240517-210613.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Button Navigation Bar</td>
+      <td>Navigation Drawer</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 <div align="center">
   <h3>Bài Tập Button Navigation Bar và Navigation Drawer </h3>
 </div>
