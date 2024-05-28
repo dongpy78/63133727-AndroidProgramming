@@ -13,12 +13,12 @@
     <tr>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
-          <img alt="Raydiance" width="414" height="736" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20200129.png" />
+          <img alt="Raydiance" width="414" height="736" src="https://github.com/dongpy78/Image-github/blob/main/navigation/buttonnavigation.png" />
         </a>
       </td>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
-          <img width="414" height="736" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/image/image_kiemtra_didong/Screenshot%202024-03-25%20201411.png" />
+          <img width="414" height="736" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/navigation/Screenshot_20240517-210613.png" />
         </a>
       </td>
     </tr>
