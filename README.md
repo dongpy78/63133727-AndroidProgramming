@@ -23,10 +23,7 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td>Button Navigation Bar</td>
-      <td>Navigation Drawer</td>
-    </tr>
+    
   </tbody>
 </table>
 
