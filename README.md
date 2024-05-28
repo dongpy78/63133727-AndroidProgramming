@@ -12,12 +12,12 @@
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
+        <a target="_blank" href="">
           <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/quiz1.png" />
         </a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
+        <a target="_blank" href="">
           <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/quiz2.png" />
         </a>
       </td>
@@ -30,12 +30,12 @@
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
+        <a target="_blank" href="">
           <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/quiz3.png" />
         </a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
+        <a target="_blank" href="">
           <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/Quiz4.png" />
         </a>
       </td>
@@ -47,12 +47,12 @@
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
+        <a target="_blank" href="">
           <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/Quiz5.png" />
         </a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
+        <a target="_blank" href="">
           <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/Quiz6.png" />
         </a>
       </td>
