@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <h3>Bài Tập Lớn Quiz App Demo </h3>
+  <h3>🔥 Bài Tập Lớn Quiz App Demo 😍 </h3>
 </div>
 
 <table>
@@ -65,7 +65,7 @@
 
 
 <div align="center">
-  <h3>Bài Tập Button Navigation Bar và Navigation Drawer </h3>
+  <h3> 🥰 Bài Tập Button Navigation Bar và Navigation Drawer 😘 </h3>
 </div>
 
 <table>
