@@ -8,18 +8,17 @@
 <div align="center">
   <h3>🔥 Bài Tập Lớn Quiz App Demo 😍 </h3>
 </div>
-
 <table>
   <tbody>
     <tr>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
-          <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/navigation/buttonnavigation.png" />
+          <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/quiz1.png" />
         </a>
       </td>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
-          <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/navigation/Screenshot_20240517-210613.png" />
+          <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/quiz2.png" />
         </a>
       </td>
     </tr>
@@ -32,12 +31,12 @@
     <tr>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
-          <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/navigation/buttonnavigation.png" />
+          <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/quiz3.png" />
         </a>
       </td>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
-          <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/navigation/Screenshot_20240517-210613.png" />
+          <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/Quiz4.png" />
         </a>
       </td>
     </tr>
@@ -49,12 +48,12 @@
     <tr>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau1_AppCalculator.md">
-          <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/navigation/buttonnavigation.png" />
+          <img alt="Raydiance" width="401" height="869" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/Quiz5.png" />
         </a>
       </td>
       <td>
         <a target="_blank" href="https://github.com/dongpy78/Image-github/blob/main/Cau2_AppTravelVietNam.md">
-          <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/navigation/Screenshot_20240517-210613.png" />
+          <img width="401" height="869" alt="Synthwave Drive" src="https://github.com/dongpy78/Image-github/blob/main/img_quiz_app/Quiz6.png" />
         </a>
       </td>
     </tr>
